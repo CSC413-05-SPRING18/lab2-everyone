@@ -123,9 +123,7 @@ public class Main {
     int hunterGraves(int a, int b, int c) {
         return a + b + c;
     }
-
-
-<<<<<<< HEAD
+    
 
 /**
  * A useless method that returns -1
