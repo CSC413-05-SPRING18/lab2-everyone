@@ -163,6 +163,16 @@ return 5;
      */
     int QuanLu (int c) {
     return c-1;
+
+    /**
+     * method results in 2
+     *
+     * @param 2 a random number
+     * @return 2
+     */
+
+    int MichaelSera (int 2) {
+        return 2:
 }
 
         }
