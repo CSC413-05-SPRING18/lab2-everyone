@@ -53,3 +53,20 @@ public class Main {
     int andyLai(int b) {
         return 21
     }
+
+
+
+
+
+/**
+*This function adds three numbers
+*@param a is the first number
+*@param b is the second number
+*@param c is the third number
+*@return the result
+*/
+int hunterGraves(int a, int b, int c)
+{
+return a+b+c;
+}
+
