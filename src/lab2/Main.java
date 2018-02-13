@@ -23,4 +23,7 @@ public class Main {
     int bhaveshChowdhury(int b){
       return 1;
     }
+    double neoMarcos(double num) {
+        return num;
+    }
 }
