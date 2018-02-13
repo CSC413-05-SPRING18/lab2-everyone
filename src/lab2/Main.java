@@ -5,6 +5,28 @@ public class Main {
     public static void main(String[] args) {
     }
 
+
+    /**
+     * A useless method that returns -1
+     *
+     * @param a a random number
+     * @return -1 because reasons
+     */
+    int brianParra(int a) {
+        return -1;
+    }
+
+    /**
+     * A perfect method that returns x
+     *
+     * @param x - a random number
+     * @return x because reasons
+     */
+    float peterLin(float x) {
+        return x;
+    }
+
+
     /**
      * A useless method that returns -1
      *
@@ -26,24 +48,48 @@ public class Main {
         return a + 1;
     }
 
-  /**
-   * A useful method that returns 1
-   *
-   * @param b a random number
-   * @return 1 because idk
-   */
-  int bhaveshChowdhury(int b) {
-    return 1;
-  }
-    /**A method that returns the argument
+    /**
+     * A useful method that returns 1
      *
+
+    /**
+     * A useless method that returns -1
+     *
+     * @param a a random number
+     * @return -1 because reasons
+     */
+    int brianParra(int a) {
+        return -1;
+    }
+
+    /**
+     * A method that returns a + 1
+     *
+     * @param a random integer
+     * @return a+1 the sum
+     */
+
+    int hamedRangeen(int a) {
+        return a + 1;
+    }
+
+    /**
+     * A useful method that returns 1
+     *
+     * @param b a random number
+     * @return 1 because idk
+     */
+    int bhaveshChowdhury(int b) {
+        return 1;
+    }
+
+    /**
      * @param num
      * @return num
      */
     double neoMarcos(double num) {
         return num;
     }
-
 
     int GerardoA(int number1) {
         number1 = 10;
@@ -56,6 +102,13 @@ public class Main {
          */
     }
 
+
+    /**
+     * The most useless method
+     *
+     * @param b arandom number
+     * @return -1 because it returns my age
+     */
 
 
 
