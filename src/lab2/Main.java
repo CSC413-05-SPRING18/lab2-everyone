@@ -17,11 +17,10 @@ public class Main {
 
     /**
      * A useful method that returns 1
-     * @param a a random number
+     * @param b a random number
      * @return 1 because idk
      */
-
-    int bhaveshChowdhury(int a){
+    int bhaveshChowdhury(int b){
       return 1;
     }
 }
