@@ -153,3 +153,13 @@ public class Main {
 >>>>>>> 824d51702bdf1a49fd45bfd2a5ac97a868a744f2
 =======
 >>>>>>> fbab135f6091e37b5d45859a7bc3217f0ee5647e
+
+/**
+ * A useless method that returns -1
+ *
+ * @param c a random number
+ * @return -1 because because
+ */
+int RegineManuel(int c) {
+return 5;
+}
