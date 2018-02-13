@@ -15,7 +15,6 @@ public class Main {
       return -1;
     }
 
-
     /**
      * A method that returns a + 1
      * @param a random integer
@@ -24,6 +23,16 @@ public class Main {
 
     int hamedRangeen(int a){
         return a+1;
+    }
+
+
+    /**
+     * A useful method that returns 1
+     * @param b a random number
+     * @return 1 because idk
+     */
+    int bhaveshChowdhury(int b){
+      return 1;
     }
 
 }
