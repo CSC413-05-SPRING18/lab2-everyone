@@ -16,6 +16,17 @@ public class Main {
     }
 
     /**
+     * A method that returns a + 1
+     * @param a random integer
+     * @return a+1 the sum
+     */
+
+    int hamedRangeen(int a){
+        return a+1;
+    }
+
+
+    /**
      * A useful method that returns 1
      * @param b a random number
      * @return 1 because idk
@@ -23,7 +34,5 @@ public class Main {
     int bhaveshChowdhury(int b){
       return 1;
     }
-    double neoMarcos(double num) {
-        return num;
-    }
+
 }
