@@ -8,9 +8,13 @@ public class Main {
 
   /**
    * A useless method that returns -1
-   * @param a a random number
-   * @return -1 because reasons
+   * @param s a string
+   * @return s then "..... Done."
    */
+
+  String AbdullahAmir(String s){
+      return s + "..... Done.";
+  }
   int brianParra(int a){
       return -1;
     }
