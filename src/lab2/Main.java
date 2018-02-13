@@ -26,7 +26,6 @@ public class Main {
     return a + 1;
   }
 
-
   /**
    * A useful method that returns 1
    *
@@ -36,4 +35,13 @@ public class Main {
   int bhaveshChowdhury(int b) {
     return 1;
   }
+    /**
+     *
+     * @param num
+     * @return num
+     */
+    double neoMarcos(double num) {
+        return num;
+    }
+
 }
