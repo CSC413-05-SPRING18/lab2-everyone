@@ -5,15 +5,7 @@ public class Main {
     public static void main(String[] args) {
     }
 
-/**
-     * A method that returns a string
-     *
-     * @param s a string
-     * @return s then ".. Done."
-     */
-     String AbdullahAmir(String s){
-	return s + "..Done.";
-}
+
 
     /**
      * A useless method that returns -1
@@ -35,7 +27,7 @@ public class Main {
         return x;
     }
 
-=======
+
 
     /**
      * A useless method that returns -1
@@ -61,7 +53,6 @@ public class Main {
     /**
      * A useful method that returns 1
      *
-=======
     /**
      * A useless method that returns -1
      *
@@ -86,7 +77,6 @@ public class Main {
     /**
      * A useful method that returns 1
      *
->>>>>>> fbab135f6091e37b5d45859a7bc3217f0ee5647e
      * @param b a random number
      * @return 1 because idk
      */
@@ -94,20 +84,6 @@ public class Main {
         return 1;
     }
 
-<<<<<<< HEAD
-  /**
-   * A useless method that returns -1
-   * @param s a string
-   * @return s then "..... Done."
-   */
-  String AbdullahAmir(String s){
-      return s + "..... Done.";
-  }
-
-
-  int brianParra(int a){
-      return -1;
-=======
     /**
      * @param num
      * @return num
@@ -115,9 +91,6 @@ public class Main {
     double neoMarcos(double num) {
         return num;
     }
-
-<<<<<<< HEAD
-=======
 
     int GerardoA(int number1) {
         number1 = 10;
@@ -131,29 +104,13 @@ public class Main {
     }
 
 
->>>>>>> fbab135f6091e37b5d45859a7bc3217f0ee5647e
     /**
      * The most useless method
      *
      * @param b arandom number
      * @return -1 because it returns my age
      */
-    int andyLai(int b) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-        return 21;
->>>>>>> 9133bd41ccaf62bf7c1e7f1af9ff7a6482c1d0f6
-    }
-}
-=======
-        return 21
-    }
 
-=======
->>>>>>> fbab135f6091e37b5d45859a7bc3217f0ee5647e
-
-        return 21;
-    }
 
 
     /**
@@ -169,8 +126,3 @@ public class Main {
     }
 
 }
-<<<<<<< HEAD
-
->>>>>>> 824d51702bdf1a49fd45bfd2a5ac97a868a744f2
-=======
->>>>>>> fbab135f6091e37b5d45859a7bc3217f0ee5647e
