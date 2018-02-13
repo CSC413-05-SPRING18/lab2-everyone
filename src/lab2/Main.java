@@ -76,6 +76,28 @@ public class Main {
      * @return -1 because it returns my age
      */
     int andyLai(int b) {
+<<<<<<< HEAD
         return 21;
     }
 }
+=======
+        return 21
+    }
+
+
+
+
+
+/**
+*This function adds three numbers
+*@param a is the first number
+*@param b is the second number
+*@param c is the third number
+*@return the result
+*/
+int hunterGraves(int a, int b, int c)
+{
+return a+b+c;
+}
+
+>>>>>>> 824d51702bdf1a49fd45bfd2a5ac97a868a744f2
