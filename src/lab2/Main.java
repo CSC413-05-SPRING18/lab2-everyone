@@ -126,6 +126,20 @@ public class Main {
     }
 
 
+<<<<<<< HEAD
+
+/**
+ * A useless method that returns -1
+ *
+ * @param c a random number
+ * @return 5 because because
+ */
+int RegineManuel(int c) {
+return 5;
+}
+
+
+=======
     /**
      * A String method that returns name
      * @param name
@@ -137,3 +151,4 @@ public class Main {
     }
 }
 
+>>>>>>> 272755f4ba9b5df1daf5c23603dee32c64808cb2
