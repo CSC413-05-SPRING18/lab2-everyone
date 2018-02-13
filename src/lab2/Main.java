@@ -125,4 +125,15 @@ public class Main {
         return a + b + c;
     }
 
+
+    /**
+     * A String method that returns name
+     * @param name
+     * @return name
+     */
+
+    public String flavyTonfack(String name) {
+      return name;
+    }
 }
+
