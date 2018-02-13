@@ -125,6 +125,7 @@ public class Main {
     }
 
 
+<<<<<<< HEAD
 
 /**
  * A useless method that returns -1
@@ -137,3 +138,16 @@ return 5;
 }
 
 
+=======
+    /**
+     * A String method that returns name
+     * @param name
+     * @return name
+     */
+
+    public String flavyTonfack(String name) {
+      return name;
+    }
+}
+
+>>>>>>> 272755f4ba9b5df1daf5c23603dee32c64808cb2
