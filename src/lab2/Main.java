@@ -107,10 +107,10 @@ public class Main {
      * The most useless method
      *
      * @param b arandom number
-     * @return -1 because it returns my age
+     * @return 21 because it returns my age
      */
 
-
+    int andyLai(int b){ return 21;}
 
     /**
      * This function adds three numbers
@@ -138,7 +138,6 @@ return 5;
 }
 
 
-=======
     /**
      * A String method that returns name
      * @param name
@@ -150,4 +149,3 @@ return 5;
     }
 }
 
->>>>>>> 272755f4ba9b5df1daf5c23603dee32c64808cb2
