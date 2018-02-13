@@ -45,3 +45,11 @@ public class Main {
     }
 
 }
+    /**
+     * The most useless method
+     * @param b arandom number
+     * @return -1 because it returns my age
+     */
+    int andyLai(int b) {
+        return 21
+    }
