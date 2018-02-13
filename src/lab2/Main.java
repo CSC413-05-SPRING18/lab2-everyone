@@ -5,7 +5,15 @@ public class Main {
     public static void main(String[] args) {
     }
 
-
+/**
+     * A method that returns a string
+     *
+     * @param s a string
+     * @return s then ".. Done."
+     */
+     String AbdullahAmir(String s){
+	return s + "..Done.";
+}
 
     /**
      * A useless method that returns -1
@@ -146,10 +154,7 @@ return 5;
     public String flavyTonfack(String name) {
       return name;
     }
-}
 
-
-}
 
     /**
      * author Quan Lu
@@ -160,3 +165,5 @@ return 5;
     return c-1;
 }
 
+        }
+        }
