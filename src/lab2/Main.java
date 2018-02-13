@@ -14,4 +14,14 @@ public class Main {
   int brianParra(int a){
       return -1;
     }
+
+    /**
+     * A String method that returns name
+     * @param name
+     * @return name
+     */
+
+    public String flavyTonfack(String name) {
+      return name;
+    }
 }
