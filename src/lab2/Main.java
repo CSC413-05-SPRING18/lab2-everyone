@@ -14,4 +14,16 @@ public class Main {
   int brianParra(int a){
       return -1;
     }
+
+    int GerardoA(int number1) {
+         number1 = 10;
+            return number1;
+
+        /**
+         * A useless method that returns 10
+         * @param a the number 10
+         * @return lucky number 10
+         */
+    }
+
 }
