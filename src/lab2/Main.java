@@ -35,7 +35,7 @@ public class Main {
   int bhaveshChowdhury(int b) {
     return 1;
   }
-    /**
+    /**A method that returns the argument
      *
      * @param num
      * @return num
@@ -43,13 +43,13 @@ public class Main {
     double neoMarcos(double num) {
         return num;
     }
-
-}
     /**
      * The most useless method
      * @param b arandom number
      * @return -1 because it returns my age
      */
     int andyLai(int b) {
-        return 21
+        return 21;
     }
+
+}
