@@ -6,6 +6,7 @@ public class Main {
     }
 
 
+
     /**
      * A useless method that returns -1
      *
@@ -25,6 +26,7 @@ public class Main {
     float peterLin(float x) {
         return x;
     }
+
 
 
     /**
@@ -51,7 +53,6 @@ public class Main {
     /**
      * A useful method that returns 1
      *
-
     /**
      * A useless method that returns -1
      *
@@ -107,10 +108,10 @@ public class Main {
      * The most useless method
      *
      * @param b arandom number
-     * @return -1 because it returns my age
+     * @return 21 because it returns my age
      */
 
-
+    int andyLai(int b){ return 21;}
 
     /**
      * This function adds three numbers
@@ -123,6 +124,30 @@ public class Main {
     int hunterGraves(int a, int b, int c) {
         return a + b + c;
     }
+    
+
+/**
+ * A useless method that returns -1
+ *
+ * @param c a random number
+ * @return 5 because because
+ */
+int RegineManuel(int c) {
+return 5;
+}
+
+
+    /**
+     * A String method that returns name
+     * @param name
+     * @return name
+     */
+
+    public String flavyTonfack(String name) {
+      return name;
+    }
+}
+
 
 }
 
@@ -134,3 +159,4 @@ public class Main {
     int QuanLu (int c) {
     return c-1;
 }
+
