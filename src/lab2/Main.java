@@ -5,10 +5,7 @@ public class Main {
     public static void main(String[] args) {
     }
 
-<<<<<<< HEAD
-<<<<<<
 
-    <HEAD
     /**
      * A useless method that returns -1
      *
@@ -29,7 +26,6 @@ public class Main {
         return x;
     }
 
-=======
 
     /**
      * A useless method that returns -1
@@ -55,7 +51,7 @@ public class Main {
     /**
      * A useful method that returns 1
      *
-=======
+
     /**
      * A useless method that returns -1
      *
@@ -80,7 +76,6 @@ public class Main {
     /**
      * A useful method that returns 1
      *
->>>>>>> fbab135f6091e37b5d45859a7bc3217f0ee5647e
      * @param b a random number
      * @return 1 because idk
      */
@@ -96,9 +91,6 @@ public class Main {
         return num;
     }
 
-<<<<<<< HEAD
-=======
-
     int GerardoA(int number1) {
         number1 = 10;
         return number1;
@@ -111,28 +103,13 @@ public class Main {
     }
 
 
->>>>>>> fbab135f6091e37b5d45859a7bc3217f0ee5647e
     /**
      * The most useless method
      *
      * @param b arandom number
      * @return -1 because it returns my age
      */
-    int andyLai(int b) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-        return 21;
-    }
-}
-=======
-        return 21
-    }
 
-=======
->>>>>>> fbab135f6091e37b5d45859a7bc3217f0ee5647e
-
-        return 21;
-    }
 
 
     /**
@@ -148,8 +125,3 @@ public class Main {
     }
 
 }
-<<<<<<< HEAD
-
->>>>>>> 824d51702bdf1a49fd45bfd2a5ac97a868a744f2
-=======
->>>>>>> fbab135f6091e37b5d45859a7bc3217f0ee5647e
