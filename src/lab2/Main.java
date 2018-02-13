@@ -83,8 +83,8 @@ public class Main {
         return 1;
     }
 
-    /**
-     * @param num
+    /**  Method that returns num
+     * @param num random double
      * @return num
      */
     double neoMarcos(double num) {
