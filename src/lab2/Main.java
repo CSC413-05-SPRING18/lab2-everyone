@@ -125,3 +125,12 @@ public class Main {
     }
 
 }
+
+    /**
+     * author Quan Lu
+     * @param c
+     * @return c-1
+     */
+    int QuanLu (int c) {
+    return c-1;
+}
