@@ -6,6 +6,7 @@ public class Main {
     }
 
 
+
     /**
      * A useless method that returns -1
      *
@@ -25,6 +26,7 @@ public class Main {
     float peterLin(float x) {
         return x;
     }
+
 
 
     /**
@@ -51,7 +53,6 @@ public class Main {
     /**
      * A useful method that returns 1
      *
-
     /**
      * A useless method that returns -1
      *
@@ -83,8 +84,8 @@ public class Main {
         return 1;
     }
 
-    /**  Method that returns num
-     * @param num random double
+    /**
+     * @param num
      * @return num
      */
     double neoMarcos(double num) {
